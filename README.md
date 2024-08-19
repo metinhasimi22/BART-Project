@@ -1,5 +1,7 @@
 # BART-Project
-BART Project çözmeye çalışacağız 
+BART Project çözmeye çalışacağız  
+data source :  https://www.kaggle.com/datasets/mrgeislinger/bart-ridership   
+
 ### 🚇 San Francisco BART Project 🚇
 
 In this project, you will analyze the BART (Bay Area Rapid Transit) data to answer key questions about ridership patterns and build predictive models. Let's dive into the tasks and questions you'll be working on! 
